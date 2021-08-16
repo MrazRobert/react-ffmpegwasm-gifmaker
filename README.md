@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/github/languages/top/MrazRobert/react-ffmpegwasm-gifmaker.svg" >
 </p>
 
-<h2 align="center"><a href="#">Live Demo</a></h2>
+<h2 align="center"><a href="https://app.netlify.com/sites/mr85-react-ffmpegwasm-gifmaker">Live Demo</a></h2>
 
 ## Description
 
